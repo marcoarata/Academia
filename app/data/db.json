@@ -1,0 +1,133 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "UX Research",
+      "level": "fundamentals",
+      "category": "design"
+    },
+    {
+      "id": "2",
+      "name": "UI Design",
+      "level": "fundamentals",
+      "category": "design"
+    },
+    {
+      "id": "3",
+      "name": "PostgreSQL",
+      "level": "expert",
+      "category": "data"
+    },
+    {
+      "id": "4",
+      "name": "MongoDB",
+      "level": "fundamentals",
+      "category": "data"
+    },
+    {
+      "id": "5",
+      "name": "Python",
+      "level": "intensive",
+      "category": "backend"
+    },
+    {
+      "id": "6",
+      "name": "Ruby",
+      "level": "intensive",
+      "category": "backend"
+    },
+    {
+      "id": "7",
+      "name": "Node.js",
+      "level": "advanced",
+      "category": "backend"
+    },
+    {
+      "id": "8",
+      "name": "Web Design",
+      "level": "professional",
+      "category": "design"
+    },
+    {
+      "id": "9",
+      "name": "Ruby",
+      "level": "fundamentals",
+      "category": "backend"
+    },
+    {
+      "id": "10",
+      "name": "PL/SQL",
+      "level": "fundamentals",
+      "category": "data"
+    },
+    {
+      "id": "11",
+      "name": "Flutter",
+      "level": "intensivo",
+      "category": "mobile"
+    },
+    {
+      "id": "12",
+      "name": "Angular",
+      "level": "fundamentals",
+      "category": "frontend"
+    },
+    {
+      "id": "13",
+      "name": "React",
+      "level": "fundamentals",
+      "category": "frontend"
+    },
+    {
+      "id": "14",
+      "name": "MacOS",
+      "level": "fundamentals",
+      "category": "SO"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "design"
+    },
+    {
+      "id": "2",
+      "name": "data"
+    },
+    {
+      "id": "3",
+      "name": "Mobile"
+    },
+    {
+      "id": "4",
+      "name": "backend"
+    }
+  ],
+  "levels": [
+    {
+      "id": "1",
+      "name": "fundamentals"
+    },
+    {
+      "id": "2",
+      "name": "intensive"
+    },
+    {
+      "id": "3",
+      "name": "advanced"
+    },
+    {
+      "id": "4",
+      "name": "professional"
+    },
+    {
+      "id": "5",
+      "name": "expert"
+    },
+    {
+      "id": "6",
+      "name": "specialist"
+    }
+  ],
+  "products": []
+}
